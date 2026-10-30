@@ -191,7 +191,8 @@ return 0;
 
 Output:
 
-<img width="445" height="365" alt="image" src="https://github.com/user-attachments/assets/62446a57-1063-492a-87e5-4d8dda7d78a2" />
+<img width="423" height="362" alt="image" src="https://github.com/user-attachments/assets/9169b81f-51a8-4bf9-adc3-add62606cfe3" />
+
 
 # Result:
 Thus the implementation of playfair cipher had been executed successfully.
